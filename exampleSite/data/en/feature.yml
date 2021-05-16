@@ -7,21 +7,21 @@ feature:
   content : "Invertir con nosotros le permitirá: "
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Nuestra misión.
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Contar con un Nombre de usuario y contraseña con el cual ver en tiempo real el porcentaje de ganancia que lleva al día de la fecha, sin importar donde se encuentre.
+      content : Ayudar a la gente a obtener ingresos pasivos y rentabilizar de la mejor manera sus ahorros.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Nuestro método
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Ahorrar en USD y obtener ganancias en dicha moneda.
+      content : Nuestra formula secreta es una variante de la estrategia "cash&carry", programada en un robot para alcanzar la máxima eficiencia. 
 
       # feature item loop
-    - title : SEO Optimized
+    - title : Nuestro riesgo.
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Retirar su dinero fácil y rápidamente.
+      content : Hasta el día de la fecha no tenemos riesgo, ya que al entrar al mercado nosotros ya sabemos cual será nuestra rentabilidad (riesgo 0%).
       
       # feature item loop
-    - title : Easy Customization
+    - title : Nuestro producto.
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Recompensas por código de referidos y fidelidad dentro del servicio.
+      content : Ofrecemos nuestro bot que utiliza la plataforma de binance y su respectivo servicio al cliente rápido y efectivo.
