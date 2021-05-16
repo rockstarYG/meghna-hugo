@@ -22,9 +22,9 @@ name = "servicios"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portafolio"
-url = "#portfolio"
-weight = 3
+name = "invertir"
+url = "#cta"
+weight = 2
 
 
 [[Languages.en.menu.main]]
