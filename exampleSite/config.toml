@@ -6,28 +6,28 @@ summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
 title = ""
-[Languages.es]
+[Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by Nicolas Dunker via [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
-languageCode = "es-es"
-languageName = "Es"
+languageCode = "en-us"
+languageName = "En"
 weight = 1
-[[Languages.es.menu.main]]
+[[Languages.en.menu.main]]
 name = "sobre nosotros"
 url = "#about"
 weight = 1
-[[Languages.es.menu.main]]
+[[Languages.en.menu.main]]
 name = "servicios"
 url = "#services"
 weight = 2
-[[Languages.es.menu.main]]
+[[Languages.en.menu.main]]
 name = "invertir"
 url = "#cta"
 weight = 2
 
 
-[[Languages.es.menu.main]]
+[[Languages.en.menu.main]]
 name = "contacto"
 url = "#contact"
 weight = 7
