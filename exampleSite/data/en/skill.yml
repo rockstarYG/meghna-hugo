@@ -1,9 +1,9 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Nuestra Rentabilidad.
+  title : Nuestra Rentabilidad
   subtitle : Te mostramos la rentabilidad de los pares más operados.
-  content : Acá pondremos los gráficos de forma dinámica de la rentabilidad que vamos teniendo en los pares desde eel inicio hasta la fecha o anual.
+  content : Acá pondremos los gráficos de forma dinámica de la rentabilidad que vamos teniendo en los pares desde el inicio hasta la fecha o anual.
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop

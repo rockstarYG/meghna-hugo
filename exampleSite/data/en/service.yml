@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Nuestro servicio.
+  title : Nuestro servicio
   service_item :
     # service item loop
     - name : Comunicación e interfaz
