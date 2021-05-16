@@ -21,10 +21,13 @@ weight = 1
 name = "servicios"
 url = "#services"
 weight = 2
-
-
-
 [[Languages.es.menu.main]]
+name = "portafolio"
+url = "#portfolio"
+weight = 3
+
+
+[[Languages.en.menu.main]]
 name = "contacto"
 url = "#contact"
 weight = 7
