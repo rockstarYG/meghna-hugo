@@ -6,22 +6,22 @@ summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
 title = ""
-[Languages.e]
-contentDir = "content/spanish"
+[Languages.en]
+contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by Nicolas Dunker via [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
-languageCode = "es-es"
-languageName = "es"
+languageCode = "en-us"
+languageName = "en"
 weight = 1
-[[Languages.es.menu.main]]
+[[Languages.en.menu.main]]
 name = "sobre nosotros"
 url = "#about"
 weight = 1
-[[Languages.es.menu.main]]
+[[Languages.en.menu.main]]
 name = "servicios"
 url = "#services"
 weight = 2
-[[Languages.es.menu.main]]
+[[Languages.en.menu.main]]
 name = "portafolio"
 url = "#portfolio"
 weight = 3
