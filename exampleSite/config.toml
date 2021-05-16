@@ -11,7 +11,7 @@ contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by Nicolas Dunker via [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
 languageCode = "en-us"
-languageName = "en"
+languageName = "Es"
 weight = 1
 [[Languages.en.menu.main]]
 name = "sobre nosotros"
@@ -28,27 +28,6 @@ weight = 3
 
 
 [[Languages.en.menu.main]]
-name = "contacto"
-url = "#contact"
-weight = 7
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by Nicolas Dunker via [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
-[[Languages.fr.menu.main]]
-name = "sur"
-url = "#about"
-weight = 1
-[[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
-
-
-[[Languages.fr.menu.main]]
 name = "contacto"
 url = "#contact"
 weight = 7
