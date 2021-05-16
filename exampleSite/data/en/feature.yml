@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : Somos Nycobot Trading.
+  content : "Invertir con nosotros le permitirá: "
   feature_item : 
       # feature item loop
     - title : SEO Optimized
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Contar con un Nombre de usuario y contraseña con el cual ver en tiempo real el porcentaje de ganancia que lleva al día de la fecha, sin importar donde se encuentre.
       
       # feature item loop
     - title : Easy Customization
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Ahorrar en USD y obtener ganancias en dicha moneda.
 
       # feature item loop
     - title : SEO Optimized
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Retirar su dinero fácil y rápidamente.
       
       # feature item loop
     - title : Easy Customization
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Recompensas por código de referidos y fidelidad dentro del servicio.

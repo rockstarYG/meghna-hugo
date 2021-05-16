@@ -1,9 +1,9 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  title : Contáctanos
+  subtitle : Detalles del contacto
+  content : Si tienes alguna duda u consulta no dudes en escribirnos rellenando este formulario, nuestros operadores contestarán tan pronto sea posible.
 
   # Contact details
   contact_list:
