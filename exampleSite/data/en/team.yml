@@ -24,7 +24,7 @@ team:
       image_webp : images/team/carafeliz.webp
       image : images/team/carafeliz.jpg
       designation : CEO/founder
-      content : Informático y programador de Nycobot (no se como es tu palmarés, ahíi lo modificamos haha).
+      content : Informático y programador de Nycobot (no se como es tu cv, ahíi lo modificamos haha).
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "#"
