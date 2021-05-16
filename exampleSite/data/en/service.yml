@@ -14,7 +14,7 @@ service:
       content : Nycobot le permitirá ahorrar al mismo tiempo que rentabilizar su capital en USD.
       
     # service item loop
-    - name : Depositos y retiros
+    - name : Depósitos y retiros
       icon : ti-check # themify icon pack : https://themify.me/themify-icons
       content : Depositar o retirar su dinero de forma rápida y segura.
       

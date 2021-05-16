@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contáctanos
   subtitle : Detalles del contacto
-  content : Si tienes alguna duda u consulta no dudes en escribirnos rellenando este formulario, nuestros operadores contestarán tan pronto sea posible.
+  content : Si tienes alguna duda u consulta no dudes en escribirnos completando este formulario, nuestros operadores contestarán tan pronto sea posible.
 
   # Contact details
   contact_list:
