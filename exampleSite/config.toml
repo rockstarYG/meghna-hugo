@@ -14,21 +14,21 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
+name = "sobre nosotros"
 url = "#about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "servicios"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "portafolio"
 url = "#portfolio"
 weight = 3
 
 
 [[Languages.en.menu.main]]
-name = "contact"
+name = "contacto"
 url = "#contact"
 weight = 7
 [Languages.fr]
@@ -49,7 +49,7 @@ weight = 2
 
 
 [[Languages.fr.menu.main]]
-name = "contact"
+name = "contacto"
 url = "#contact"
 weight = 7
 
