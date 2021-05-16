@@ -1,26 +1,26 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  title : Nuestra Rentabilidad.
+  subtitle : Te mostramos la rentabilidad de los pares más operados.
+  content : Acá pondremos los gráficos de forma dinámica de la rentabilidad que vamos teniendo en los pares desde eel inicio hasta la fecha o anual.
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Business Development
+    - name :  BTC/USD
       percent : 90%
       
     # skill item loop
-    - name :  Analysis
+    - name :  ETH/USD
       percent : 70%
       
     # skill item loop
-    - name :  Design
+    - name :  BNB/USD
       percent : 80%
       
-    - name :  IOS Development
+    - name :  DOT/USD
       percent : 95%
       
     # skill item loop
-    - name :  Android Development
+    - name :  ADA/USD
       percent : 75%
