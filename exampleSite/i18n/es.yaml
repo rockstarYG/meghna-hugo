@@ -1,10 +1,10 @@
 ---
 - id: blogTitle
-  translation: Latest Post
+  translation: Últimas Publicaciones
 - id: readMore
-  translation: Read more
+  translation: Leer más
 - id: viewAllPost
-  translation: View All Post
+  translation: Ver todas las publicaciones
 - id: share
   translation: Share
 - id: aboutAuthor
