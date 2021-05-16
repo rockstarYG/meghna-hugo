@@ -25,13 +25,7 @@ weight = 2
 name = "portfolio"
 url = "#portfolio"
 weight = 3
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
-[[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
+
 weight = 6
 [[Languages.en.menu.main]]
 name = "contact"
@@ -52,14 +46,8 @@ weight = 1
 name = "un service"
 url = "#services"
 weight = 2
-[[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 4
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
+
+
 [[Languages.fr.menu.main]]
 name = "contact"
 url = "#contact"
