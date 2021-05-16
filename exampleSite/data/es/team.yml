@@ -1,7 +1,7 @@
 ############################### team ############################
 team:
   enable : true
-  title : Our Team
+  title : Nuestro Equipo
   team_member :
     # team member loop
     - name : Nicolás Alfredo Dunker Ávila
