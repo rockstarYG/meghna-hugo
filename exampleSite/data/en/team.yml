@@ -5,8 +5,8 @@ team:
   team_member :
     # team member loop
     - name : Nicolás Alfredo Dunker Ávila
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
+      image_webp : images/team/carafeliz.webp
+      image : images/team/carafeliz.jpg
       designation : CEO/Founder
       content : Trader especializado en mercados futuros y arbitraje financiero.
       social :
@@ -21,8 +21,8 @@ team:
         
     # team member loop
     - name : Yolier Galán Tasse
-      image_webp : images/team/team-2.webp
-      image : images/team/team-2.jpg
+      image_webp : images/team/carafeliz.webp
+      image : images/team/carafeliz.jpg
       designation : CEO/founder
       content : Informático y programador de Nycobot (no se como es tu palmarés, ahíi lo modificamos haha).
       social :
