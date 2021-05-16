@@ -1,8 +1,8 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
+  image : images/about/about.jpg
+  image_webp : images/about/about.webp
   title : Somos Nycobot Trading.
   content : "Invertir con nosotros le permitirá: "
   feature_item : 
