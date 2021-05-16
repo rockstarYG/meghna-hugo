@@ -11,7 +11,7 @@ service:
     # service item loop
     - name : Ingresos pasivos
       icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
-      content : Nycobot le permitirá ahorrar al mismo tiempo que rentabilizar su capital en Dólar Americano.
+      content : Nycobot le permitirá ahorrar al mismo tiempo que rentabilizar su capital en USD.
       
     # service item loop
     - name : Depositos y retiros
@@ -26,7 +26,7 @@ service:
     # service item loop
     - name : Servicio al cliente
       icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
-      content : Un servicio al cliente fácil y práctico vía ChatBot. En caso de que su inquitud no sea resuelta, contacto directo con un operador vía chat o correo electrónico.
+      content : Un servicio al cliente fácil y práctico vía ChatBot u operador.
       
     # service item loop
     - name : Concursos
