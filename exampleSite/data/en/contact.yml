@@ -24,6 +24,5 @@ contact:
     form_action : "#" #contact form works with https://formspree.io
     name : "Tu nombre"
     email : "Tu correo"
-    subject : "Sujeto"
     message : "Mensaje"
     submit : "Enviar"
