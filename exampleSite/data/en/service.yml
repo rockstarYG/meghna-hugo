@@ -21,7 +21,7 @@ service:
     # service item loop
     - name : Referidos
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Le ofrecemos un código de referidos que le permitirá ganar comisión de la persona entrante.
+      content : Le ofrecemos un código de referidos que le permitirá ganar porcentaje de comisión.
       
     # service item loop
     - name : Servicio al cliente
