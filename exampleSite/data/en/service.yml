@@ -4,31 +4,31 @@ service:
   title : Nuestro servicio.
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : Comunicación e interfaz
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : Usuario y contraseña con interfaz de usuario y contacto con Nycobot.
       
     # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+    - name : Ingresos pasivos
+      icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
       content : Nycobot le permitirá ahorrar al mismo tiempo que rentabilizar su capital en Dólar Americano.
       
     # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+    - name : Depositos y retiros
+      icon : ti-check # themify icon pack : https://themify.me/themify-icons
       content : Depositar o retirar su dinero de forma rápida y segura.
       
     # service item loop
-    - name : Graphic Design
+    - name : Referidos
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
       content : Le ofrecemos un código de referidos que le permitirá ganar comisión de la gente que se registra mediante su código.
       
     # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+    - name : Servicio al cliente
+      icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
       content : Un servicio al cliente fácil y práctico vía ChatBot. En caso de que su inquitud no sea resuelta, contacto directo con un operador vía chat o correo electrónico.
       
     # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+    - name : Concursos
+      icon : ti-gift # themify icon pack : https://themify.me/themify-icons
       content : Derecho de admisión a futuros concursos dentro de nuestra plataforma.
